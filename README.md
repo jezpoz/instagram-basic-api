@@ -1,1 +1,1 @@
-# instagram-.basic-api
+# instagram-basic-api
